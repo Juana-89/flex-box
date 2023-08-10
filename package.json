@@ -1,0 +1,19 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "practicas de css",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juana-89/flex-box.git"
+  },
+  "author": "Juana Llanje",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juana-89/flex-box/issues"
+  },
+  "homepage": "https://github.com/Juana-89/flex-box#readme"
+}
